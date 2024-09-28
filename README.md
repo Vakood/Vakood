@@ -9,6 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vakood&locale=ru&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+<a href="https://discord.com/users/847742314372792341"><img src="https://lanyard.cnrad.dev/api/847742314372792341?theme=dark&borderRadius=20px&bg=36393f" alt="Discord Presence" /></a>
+
 ###
 
 <div align="left">
