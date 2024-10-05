@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/018cdfc6-4a5a-4143-85ca-be7fd26c5859.svg)](https://wakatime.com/@018cdfc6-4a5a-4143-85ca-be7fd26c5859)
-
 <h1 align="center">Hi 👋, I'm a Vakood</h1>
 
 ###
@@ -10,6 +8,8 @@
 </div>
 
 ###
+
+[![wakatime](https://wakatime.com/badge/user/018cdfc6-4a5a-4143-85ca-be7fd26c5859.svg)](https://wakatime.com/@018cdfc6-4a5a-4143-85ca-be7fd26c5859)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
