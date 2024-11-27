@@ -5,7 +5,7 @@ I am an average Python developer from Russia 🇷🇺<br>
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 ## Framework<br>
-[![My Framework](https://skillicons.dev/icons?i=fastapi,flask,electron,express)](https://skillicons.dev)
+[![My Framework](https://skillicons.dev/icons?i=fastapi,flask,electron)](https://skillicons.dev)
 
 ## Tools<br>
 [![My Tools](https://skillicons.dev/icons?i=linux,bash,git,github,nginx,vscode)](https://skillicons.dev)
