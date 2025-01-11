@@ -6,7 +6,6 @@
 ## 🚀 About Me  
 - 🌱 Currently improving my **TypeScript** and **Next.js** skills.  
 - 💼 Open to collaboration on Python and java-script projects.  
-- 🎯 Goals for 2025: Learn more about **Machine Learning** and **Rust**.  
 - 📫 How to reach me: [vakood.dev](https://github.com/Vakood)
 
 ---
