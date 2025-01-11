@@ -49,4 +49,4 @@
 ---
 
 ## 🌍 Let's Connect  
-- 💻 [Portfolio](https://vakood.dev)  
+- 💻 [Portfolio](https://vakood.github.io/vakood.dev/)
