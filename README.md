@@ -2,10 +2,10 @@
 I am an average Python developer from Russia 🇷🇺<br>
 
 ## Languages<br>
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,ts)](https://skillicons.dev)
 
 ## Framework<br>
-[![My Framework](https://skillicons.dev/icons?i=fastapi,flask,electron)](https://skillicons.dev)
+[![My Framework](https://skillicons.dev/icons?i=fastapi,flask,electron,nextjs)](https://skillicons.dev)
 
 ## Tools<br>
 [![My Tools](https://skillicons.dev/icons?i=linux,bash,git,github,nginx,vscode)](https://skillicons.dev)
