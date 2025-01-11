@@ -5,7 +5,8 @@
 
 ## 🚀 About Me  
 - 🌱 Currently improving my **TypeScript** and **Next.js** skills.  
-- 💼 Open to collaboration on Python and JavaScript projects.  
+- 💼 Open to collaboration on Python and JavaScript projects.
+- 💻 [Portfolio](https://vakood.github.io/vakood.dev/)  
 
 ---
 
@@ -45,8 +46,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vakood&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="120" alt="Languages Graph" />
 </div>
-
----
-
-## 🌍 Let's Connect  
-- 💻 [Portfolio](https://vakood.github.io/vakood.dev/)
